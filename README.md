@@ -1,4 +1,4 @@
-# The open guide to building a home theater!
+# The Open Guide to Building a Home Theater!
 
 ## Table of Contents
 * [Introduction](#introduction)
