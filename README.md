@@ -1,2 +1,2 @@
-# home_theater
-Information for home theater builders
+# The collaborative guide to building a home theater!
+
